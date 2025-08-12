@@ -1,7 +1,3 @@
-# This is an H1 Header
+### This is a SeraCata 
 
-## smaller
-
-### H3 header here 
-
-###### We're number five 
+![SaraCat](https://octodex.github.com/images/Terracottocat_Single.png)
